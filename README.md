@@ -5,6 +5,9 @@ I'm a passionate Computer Science student with a strong interest in data analyti
  .Advanced data analysis techniques<br/>
  .Power BI dashboards<br/>
  .Development with Python <br/>
+ ### 🌐 Let's Connect!
+- 🔗 [LinkedIn]
+- ✉️ Reach me at: your.pavndeep0803@gmail.com<br/>
  
 
 # 💻 Tech Stack:
